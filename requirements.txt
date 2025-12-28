@@ -1,5 +1,5 @@
 streamlit==1.40.0
-yfinance
-plotly
+requests
 pandas
-google-generativeai
+plotly
+google-genai
